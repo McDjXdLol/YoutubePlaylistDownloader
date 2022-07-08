@@ -50,3 +50,4 @@ Program sometimes don't download some songs so everything u need is repeat downl
 
 **Don't click program when it's downloading otherwise it will be crashed Downloader!**
 Everything that u can click or control is console.
+Soon i will record a YouTube Tutorial because this is too complicated
