@@ -14,7 +14,7 @@ This is "YouTube Playlist Downloader" for downloading playlist via python
 2. Secondly u need to download **http://builds.libav.org/windows/release-gpl/libav-11.3-win64.7z**
 3. Create folder in in program folder named ffmpeg
 4. Then extract libav-11.3-win64.7z\win64\usr\bin\ to ffmpeg\
-5. Next u need to prepare ur playlist.txt file [Example](#Playlist)
+5. Next u need to prepare ur playlist.txt file [Instruction](#Playlist)
 6. Then run program and click *Download*
 7. After this the program should start downloading **Don't click program otherwise it will be crash!**
 8. U can check console for download progress
