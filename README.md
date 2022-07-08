@@ -19,6 +19,10 @@ This is "YouTube Playlist Downloader" for downloading playlist via python
 7. After this the program should start downloading **Don't click program otherwise it will be crash!**
 8. U can check console for download progress
 
+**This is how it's should look like**
+
+![alt text](https://i.imgur.com/AEFCGgg.png)
+
 
 ## Playlist
 
