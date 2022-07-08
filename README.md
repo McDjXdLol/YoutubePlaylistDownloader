@@ -1,12 +1,15 @@
-#YouTube Playlist Downloader
+# YouTube Playlist Downloader
+
 This is "YouTube Playlist Downloader" for downloading playlist via python
 
-##Table of contents
+## Table of contents
+
 * [Instruction](#instruction)
-* [Playlist.txt preparation](#Playlist.txt preparation)
+* [Playlist](#Playlist)
 * [Information](#information)
 
-##Instruction
+## Instruction
+
 1. Firstly u need to download all the files and paste them to folder
 2. Secondly u need to prepare ur playlist.txt file [Example](#Playlist.txt preparation)
 3. Then run program and click *Download*
@@ -14,7 +17,8 @@ This is "YouTube Playlist Downloader" for downloading playlist via python
 5. U can check console for download progress
 
 
-##Playlist.txt preparation
+## Playlist
+
 Open chrome then enter to YouTube playlist with u want to download and open console then write:
 ```javascript
 window.clearInterval(scroll); console.clear(); urls = $$('a'); urls.forEach(function(v,i,a){if (v.id=="video-title"){console.log('\t'+v.href+'\t')}});
@@ -33,7 +37,8 @@ VM964:1 	https://www.youtube.com/watch?v=12abcdefgh&list=PL_gp4vzOabcesdasB-1f7s
 ```
 This needs to be clear without spaces, else program will be crash.
 
-##Information
+## Information
+
 Program sometimes don't download some songs so everything u need is repeat downloading this song.
 
 **Don't click program when it's downloading otherwise it will be crashed Downloader!**
