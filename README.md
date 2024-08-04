@@ -1,4 +1,4 @@
-Suport Ended
+Support Ended
 
 # YouTube Playlist Downloader
 
